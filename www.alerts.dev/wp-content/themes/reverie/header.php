@@ -44,7 +44,7 @@
 	
 
 	<div class="row clearfix">
-	<img class="twelve columns" src="http://images.alertsforallergies.com/header-alerts.png" alt="Alerts for Allergies"/>
+	<img class="twelve columns" src="http://images.alertsforallergies.com/header-alerts.jpg" alt="Alerts for Allergies"/>
 	</div>	
 		<!-- Row for blog navigation -->
 	<div class="row">
