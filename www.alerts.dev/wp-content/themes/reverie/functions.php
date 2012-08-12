@@ -82,6 +82,17 @@ global $is_IE;
      wp_register_script( 'app', get_template_directory_uri() . '/js/app.js', array( 'jquery' ), false, true );
      wp_enqueue_script( 'app' );
      
+      wp_register_script( 'main', get_template_directory_uri() . '/js/main.js', array( 'jquery' ), false, true );
+     wp_enqueue_script( 'main' );
+     
+      wp_register_script( 'plugins', get_template_directory_uri() . '/js/plugins.js', array( 'jquery' ), false, true );
+     wp_enqueue_script( 'plugins' );
+     
+      wp_register_script( 'gumby', get_template_directory_uri() . '/js/libs/gumby.min.js', array( 'jquery' ), false, true );
+     wp_enqueue_script( 'gumby' );
+     
+     
+     
     
      if ($is_IE) {
         wp_register_script ( 'html5shiv', "http://html5shiv.googlecode.com/svn/trunk/html5.js" , false, true);

@@ -42,24 +42,24 @@
 	<!-- Start the main container -->
 	<div id="container" class="container" role="document">
 	
-	<header class="row">
-	
-	<img class="twelve columns text-center" src="http://images.alertsforallergies.com/header-alerts.png" alt="Alerts for Allergies"></header>
-		
+
+	<div class="row clearfix">
+	<img class="twelve columns" src="http://images.alertsforallergies.com/header-alerts.png" alt="Alerts for Allergies"/>
+	</div>	
 		<!-- Row for blog navigation -->
 	<div class="row">
-    <nav class=" pretty navbar clearfix" id="basicnav">
+    <nav class="pretty navbar clearfix" id="basicnav">
       <a href="#" class="toggle" data-for="#basicnav > ul"><img src="http://images.alertsforallergies.com/icon_nav_toggle.gif" /></a>
     	<ul>
     		<li><a href="/index.php">Home</a></li>
     		<li><a href="/products">Products</a>
     			<div class="dropdown">
     				<ul>
-    					<li><a href="#">Lunch Bags</a></li>
-    					<li><a href="#">Tattoos</a></li>
-    					<li><a href="#">Chef Cards</a></li>
-    					<li><a href="#">Stickers</a></li>
-    					<li><a href="#">Signs</a></li>
+    					<li><a href="/bags">Lunch Bags</a></li>
+    					<li><a href="/tattoos">Tattoos</a></li>
+    					<li><a href="/cards">Chef Cards</a></li>
+    					<li><a href="/stickers">Stickers</a></li>
+    					<li><a href="/signs">Signs</a></li>
     				</ul>
     			</div>
     		</li>
@@ -69,12 +69,13 @@
     		<li><a href="resources">Resources</a></li>
     		<li>
       		<div class="field">
-      			<p class="text search oval"><input type="search" placeholder="Search" /></p>
+      			<p class="text search oval"><input type="search" placeholder="Social Icons Here" /></p>
       		</div>
     		</li>
     	</ul>
     </nav>
   </div>
+</header>
 
 		
 		<!-- Row for main content area -->
