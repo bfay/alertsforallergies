@@ -1,16 +1,25 @@
 		</div><!-- End Main row -->
 		
 		<footer id="content-info" role="contentinfo">
-			<div class="row">
+			<!--<div class="row">
 				<?php dynamic_sidebar("Footer"); ?>
 			</div>
-			<div class="row">
-				<div class="four columns">
-					&copy; 2008-<?php echo date('Y'); ?> All rights reserved.
-					<br>
-					Powered by <a href="http://themefortress.com/reverie/" rel="nofollow" title="Reverie Framework">Reverie Framework</a>.
+			<div class="row">-->
+				<div class="panel four columns">
+					&copy; 2010-<?php echo date('Y'); ?> </br>
+					Alerts for Allergies</br>
+					All rights reserved</br>
+					
+					Design by <a href="http://www.eighthloop.com" rel="nofollow" title="Eighthloop Framework">Eighthloop</a>.
 				</div>
-				<?php wp_nav_menu(array('theme_location' => 'utility_navigation', 'container' => false, 'menu_class' => 'eight columns footer-nav')); ?>
+				<div class="panel four columns text-center"><h5>Our Products</h5>
+				</div>
+				</div>
+				<div class="panel four columns text-center"><h5>Our Company</h5>
+				</div>
+				</div>
+				<div class="panel four columns text-center"><h5>Medical Disclaimer</h5>
+				</div>
 			</div>
 		</footer>
 			
