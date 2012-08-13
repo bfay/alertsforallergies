@@ -44,22 +44,22 @@
 	
 
 	<div class="row clearfix">
-	<img class="sixteen columns" src="http://images.alertsforallergies.com/header-alerts.jpg" alt="Alerts for Allergies"/>
+	<img class="sixteen columns" src="http://images.alertsforallergies.com/alerts-header.png" alt="Alerts for Allergies"/>
 	</div>	
 		<!-- Row for blog navigation -->
 	<div class="row">
     <nav class="pretty navbar clearfix" id="basicnav">
       <a href="#" class="toggle" data-for="#basicnav > ul"><img src="http://images.alertsforallergies.com/icon_nav_toggle.gif" /></a>
     	<ul>
-    		<li><a href="/index.php">Home</a></li>
+    		<li><a href="/index.http://images.alertsforallergies.com/slider-placeholder.jpg">Home</a></li>
     		<li><a href="/products">Products</a>
     			<div class="dropdown">
     				<ul>
-    					<li><a href="/bags">Lunch Bags</a></li>
-    					<li><a href="/tattoos">Tattoos</a></li>
-    					<li><a href="/cards">Chef Cards</a></li>
-    					<li><a href="/stickers">Stickers</a></li>
-    					<li><a href="/signs">Signs</a></li>
+    					<li><a href="/products/lunch-bags">Lunch Bags</a></li>
+    					<li><a href="/products/tattoos">Tattoos</a></li>
+    					<li><a href="/products/chef-cards">Chef Cards</a></li>
+    					<li><a href="/products/stickers">Stickers</a></li>
+    					<li><a href="/products/signs">Signs</a></li>
     				</ul>
     			</div>
     		</li>
