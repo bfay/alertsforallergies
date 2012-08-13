@@ -80,11 +80,11 @@
     		<li><a href="/about">About</a></li>
     		<li><a href="resources">Resources</a></li>
     		<li>
-      		<div class="social-icons"><a href="http://www.facebook.com/alertsforallergies/"><img class="alignnone" title="Facebook social icon" src="http://www.peanutfreezone.com/wp-content/uploads/facebook-logo-webtreatsetc-150x150.png" alt="Facebook social icon" width="40" height="40" /></a>
+      		<div class="social-icons"><a href="http://www.facebook.com/alertsforallergies/"><img title="Facebook social icon" src="http://www.peanutfreezone.com/wp-content/uploads/facebook-logo-webtreatsetc-150x150.png" alt="Facebook social icon" width="40" height="40" /></a>
 
-<a href="http://www.alertsforallergies.com/feed"><img class="alignnone" title="rss " src="http://www.peanutfreezone.com/wp-content/uploads/rss-basic-webtreatsetc-150x150.png" alt="Really Simple Syndicate" width="40" height="40" /></a>
+<a href="http://www.alertsforallergies.com/feed"><img title="rss " src="http://www.peanutfreezone.com/wp-content/uploads/rss-basic-webtreatsetc-150x150.png" alt="Really Simple Syndicate" width="40" height="40" /></a>
 
-<a href="mailto:stacey@alertsforallergies.com"><img class="alignnone" title="mail" src="http://www.peanutfreezone.com/wp-content/uploads/mail-webtreatsetc-150x150.png" alt="Email social icon" width="40" height="40" /></a>
+<a href="mailto:stacey@alertsforallergies.com"><img title="mail" src="http://www.peanutfreezone.com/wp-content/uploads/mail-webtreatsetc-150x150.png" alt="Email social icon" width="40" height="40" /></a>
       		</div>
     		</li>
     	</ul>

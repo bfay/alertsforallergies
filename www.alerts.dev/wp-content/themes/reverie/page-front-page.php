@@ -7,8 +7,8 @@ get_header(); ?>
 		<!-- Row for main content area -->
 		<div class="slider-container" role="main">
 	
-			<div class="placeholder eleven columns text-center"><img src="http://images.alertsforallergies.com/alerts-held-up.png" alt="Image Slider"></div>
-			<div class="placeholder five columns text-center"><img src="http://images.alertsforallergies.com/opt_in_form.png"></div>
+			<div class="placeholder slider eleven columns text-center"><img src="http://images.alertsforallergies.com/alerts-held-up.png" alt="Image Slider"></div>
+			<div class="placeholder2 five columns right"><script type="text/javascript" src="http://forms.aweber.com/form/74/1233760974.js"></script></div>
 		</div><!-- End slider row -->
 		
 <!--!Products Banner-->
