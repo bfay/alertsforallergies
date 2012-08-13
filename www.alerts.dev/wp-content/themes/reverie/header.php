@@ -10,6 +10,18 @@
 
 	<title><?php wp_title('|', true, 'right'); bloginfo('name'); ?></title>
 	
+	 <!--Facebook Metadata /-->
+  <meta property="fb:page_id" content="" />
+  <meta property="og:image" content="" />
+  <meta property="og:description" content=""/>
+  <meta property="og:title" content=""/>
+  
+  <!--Google+ Metadata /-->
+  <meta itemprop="name" content="">
+  <meta itemprop="description" content="">
+  <meta itemprop="image" content="">
+
+	
 	<!-- Mobile viewport optimized: j.mp/bplateviewport -->
 	<meta name="viewport" content="width=device-width" />
 				
@@ -51,7 +63,7 @@
     <nav class="pretty navbar clearfix" id="basicnav">
       <a href="#" class="toggle" data-for="#basicnav > ul"><img src="http://images.alertsforallergies.com/icon_nav_toggle.gif" /></a>
     	<ul>
-    		<li><a href="/index.http://images.alertsforallergies.com/slider-placeholder.jpg">Home</a></li>
+    		<li><a href="/index.php">Home</a></li>
     		<li><a href="/products">Products</a>
     			<div class="dropdown">
     				<ul>
@@ -68,8 +80,11 @@
     		<li><a href="/about">About</a></li>
     		<li><a href="resources">Resources</a></li>
     		<li>
-      		<div class="field">
-      			<p class="text search oval"><input type="search" placeholder="Social Icons Here" /></p>
+      		<div class="social-icons"><a href="http://www.facebook.com/alertsforallergies/"><img class="alignnone" title="Facebook social icon" src="http://www.peanutfreezone.com/wp-content/uploads/facebook-logo-webtreatsetc-150x150.png" alt="Facebook social icon" width="40" height="40" /></a>
+
+<a href="http://www.alertsforallergies.com/feed"><img class="alignnone" title="rss " src="http://www.peanutfreezone.com/wp-content/uploads/rss-basic-webtreatsetc-150x150.png" alt="Really Simple Syndicate" width="40" height="40" /></a>
+
+<a href="mailto:stacey@alertsforallergies.com"><img class="alignnone" title="mail" src="http://www.peanutfreezone.com/wp-content/uploads/mail-webtreatsetc-150x150.png" alt="Email social icon" width="40" height="40" /></a>
       		</div>
     		</li>
     	</ul>
