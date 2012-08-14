@@ -44,7 +44,8 @@
 	<link rel="apple-touch-startup-image" href="<?php echo get_template_directory_uri(); ?>/images/devices/reverie-load-ipad-portrait.png" media="screen and (min-device-width: 481px) and (max-device-width: 1024px) and (orientation:portrait)" />
 	<!-- Startup Image iPhone (320x460) -->
 	<link rel="apple-touch-startup-image" href="<?php echo get_template_directory_uri(); ?>/images/devices/reverie-load.png" media="screen and (max-device-width: 320px)" />
-	
+	<link href='http://fonts.googleapis.com/css?family=Marmelad' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Quattrocento:400,700' rel='stylesheet' type='text/css'>
 <?php wp_head(); ?>
 
 </head>
@@ -54,13 +55,14 @@
 	<!-- Start the main container -->
 	<div id="container" class="container" role="document">
 	
-
+<header class="header">
 	<div class="row clearfix">
 	<img class="sixteen columns" src="http://images.alertsforallergies.com/alerts-header.png" alt="Alerts for Allergies"/>
 	</div>	
+
 		<!-- Row for blog navigation -->
 	<div class="row">
-    <nav class="pretty navbar clearfix" id="basicnav">
+    <nav class="navbar clearfix" id="basicnav">
       <a href="#" class="toggle" data-for="#basicnav > ul"><img src="http://images.alertsforallergies.com/icon_nav_toggle.gif" /></a>
     	<ul>
     		<li><a href="/index.php">Home</a></li>
@@ -79,18 +81,20 @@
     		<li><a href="/contact">Contact</a></li>
     		<li><a href="/about">About</a></li>
     		<li><a href="resources">Resources</a></li>
-    		<li>
+    	<!--<li>
       		<div class="social-icons"><a href="http://www.facebook.com/alertsforallergies/"><img title="Facebook social icon" src="http://www.peanutfreezone.com/wp-content/uploads/facebook-logo-webtreatsetc-150x150.png" alt="Facebook social icon" width="40" height="40" /></a>
 
 <a href="http://www.alertsforallergies.com/feed"><img title="rss " src="http://www.peanutfreezone.com/wp-content/uploads/rss-basic-webtreatsetc-150x150.png" alt="Really Simple Syndicate" width="40" height="40" /></a>
 
 <a href="mailto:stacey@alertsforallergies.com"><img title="mail" src="http://www.peanutfreezone.com/wp-content/uploads/mail-webtreatsetc-150x150.png" alt="Email social icon" width="40" height="40" /></a>
       		</div>
-    		</li>
+      		</li>-->
     	</ul>
     </nav>
   </div>
 </header>
+
+
 
 		
 		<!-- Row for main content area -->
