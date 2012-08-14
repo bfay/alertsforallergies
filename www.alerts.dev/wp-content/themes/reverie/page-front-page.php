@@ -22,7 +22,7 @@ get_header(); ?>
 
 <section class="product panel three columns text-center">
 	<div class="cat-block">
-          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/sticker_150.png" alt="Stickers">
+          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/stickers.png" alt="Stickers">
           <div class="entry-content4">
             <div class="cat-title">
             </div>
@@ -38,7 +38,7 @@ get_header(); ?>
 
 <section class="product panel three columns text-center">
 	<div class="cat-block">
-          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/lunch_bag_small.png" alt="Lunch Bags">
+          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/bags.png" alt="Lunch Bags">
           <div class="entry-content1">
             <div class="cat-title">
             </div>
@@ -53,7 +53,7 @@ get_header(); ?>
    
 <section class="product panel three columns text-center">
 	<div class="cat-block">
-          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/card_150.png" alt="Chef Cards">
+          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/cards.png" alt="Chef Cards">
           <div class="entry-content3">
             <div class="cat-title">
             </div>
@@ -67,7 +67,7 @@ get_header(); ?>
     
 <section class="product panel three columns text-center">
 	<div class="cat-block">
-          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/tattoo_small.png" alt="Tattoos">
+          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/tattoos.png" alt="Tattoos">
           <div class="entry-content2">
             <div class="cat-title">
             </div>
@@ -81,7 +81,7 @@ get_header(); ?>
     
 <section class="product panel three columns text-center">
 	<div class="cat-block">
-          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/sign_150.png" alt="Signs">
+          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/signs.png" alt="Signs">
           <div class="entry-content5">
             <div class="cat-title">
             </div>
@@ -95,14 +95,26 @@ get_header(); ?>
   
   <section>
  <div class="row">
-  <div class="seven columns panel blog-feature text-center">
-  	<h2>Featured Blog Post</h2>
+  <div class="four columns panel testimonials">
+  	<h2 class="text-center">Testimonials</h2>
+  	<p>I’m looking forward to using the chef cards when we eat out. We always tell our server about my daughter’s peanut allergy, but realize instructions sometimes are forgotten or “lost in translation” from the table to the kitchen. The cards will help ensure the message is delivered directly to the kitchen staff and give reminders on how to prepare her food. &nbsp &nbsp &nbsp<strong>- Heather</strong></br>
+  	<p>We loved the tattoo's- thank you they were perfect and we gave them to a few friends of ours! I'm a nervous mommy- sent my son to camp for the first time and although he's getting better about watching out for peanuts he's not perfect- so was very nervous to have him out of my sight. So put them on his right forearm as a reminder to all his counselors- the kids thought they were cool too! Gave me a little peace of mind. Thank you!
+&nbsp &nbsp &nbsp <strong>- Kelly</strong></p> 
   </div>
-  <div class="five columns panel book-feature text-center">
-  	<h2>Featured Book Excerpt</h2>
+  <div class="eleven columns push-one panel feature">
+  <h2 class="text-center">Check out my book!</h2>
+  <div class="row">
+  <div class="seven columns inner-text"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+ 
+  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+  <a href="http://www.amazon.com/gp/reader/B008VKCNY2/ref=sib_dp_kd#reader-link" target="_blank"><h5>Take a peek inside...</h5></a>
   </div>
-  <div class="four columns panel testimonials text-center">
-  	<h2>Testimonials</h2>
+  
+  <div class="nine columns">
+  
+  <a href="http://www.amazon.com/Allergies-School-awareness-life-threatening-ebook/dp/B008VKCNY2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1344951624&sr=1-1&keywords=stacey+stratton+allergies" target="_blank"><img class="right" src="http://images.alertsforallergies.com/kindle.png" alt="Alerts at School: By Stacey Stratton"></a>
+  </div>
+  </div>
   </div>
   </div><!--end row-->
   </section>

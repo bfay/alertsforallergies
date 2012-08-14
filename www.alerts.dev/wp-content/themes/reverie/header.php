@@ -45,7 +45,7 @@
 	<!-- Startup Image iPhone (320x460) -->
 	<link rel="apple-touch-startup-image" href="<?php echo get_template_directory_uri(); ?>/images/devices/reverie-load.png" media="screen and (max-device-width: 320px)" />
 	<link href='http://fonts.googleapis.com/css?family=Marmelad' rel='stylesheet' type='text/css'>
-	<link href='http://fonts.googleapis.com/css?family=Quattrocento:400,700' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Ruluko' rel='stylesheet' type='text/css'>
 <?php wp_head(); ?>
 
 </head>
@@ -55,9 +55,9 @@
 	<!-- Start the main container -->
 	<div id="container" class="container" role="document">
 	
-<header class="header">
+<header>
 	<div class="row clearfix">
-	<img class="sixteen columns" src="http://images.alertsforallergies.com/alerts-header.png" alt="Alerts for Allergies"/>
+	<img class="sixteen columns header" src="http://images.alertsforallergies.com/alerts-header.png" alt="Alerts for Allergies"/>
 	</div>	
 
 		<!-- Row for blog navigation -->

@@ -6,22 +6,25 @@
 			</div>-->
 	<div class="row">
 	<div class="row panel">
-				<div class="four columns text-center paypal"><img src="http://images.alertsforallergies.com/paypal_verified.png" alt="Paypal Verified">
+				<div class="four columns text-center paypal right-border"><img src="http://images.alertsforallergies.com/paypal_verified.png" alt="Paypal Verified">
 				</div>
-				<div class="four columns footer"><h4><span style="text-decoration: underline;"><span style="text-align: center;">Products</span></span></h4>
-
-<p>+&nbsp <a href="http://www.alertsforallergies.com/products/signs/">Signs</a></p>
-<p>+&nbsp <a href="http://www.alertsforallergies.com/products/tattoos/">Tattoos</a></p>
-<p>+&nbsp <a href="http://www.alertsforallergies.com/products/products/stickers/">Stickers</a></p>
-<p>+&nbsp <a href="http://www.alertsforallergies.com/products/lunch-bags/">Lunch Bags</a></p>
-<p>+&nbsp <a href="http://www.alertsforallergies.com/products/chef-cards/">Chef Cards</a></p>
+				<div class="four columns footer right-border"><h4><span style="text-decoration: underline;"><span style="text-align: center;">Products</span></span></h4>
+<ul>
+<li><a href="http://www.alertsforallergies.com/products/signs/">Signs</a></li>
+<li><a href="http://www.alertsforallergies.com/products/tattoos/">Tattoos</a></li>
+<li><a href="http://www.alertsforallergies.com/products/products/stickers/">Stickers</a></li>
+<li><a href="http://www.alertsforallergies.com/products/lunch-bags/">Lunch Bags</a></li>
+<li><a href="http://www.alertsforallergies.com/products/chef-cards/">Chef Cards</a></li>
+</ul>
 				</div>
 			
-				<div class="four columns footer"><h4><span style="text-decoration: underline;"><span style="text-align: center;">Our Company</span></span></h4>
-<p>+&nbsp <a href="http://www.alertsforallergies.com/about/">About</a></p>
-<p>+&nbsp <a href="http://www.alertsforallergies.com/contact/">Contact</a></p>
-<p>+&nbsp <a href="http://www.peanutfreezone.com/terms/">Terms &amp; Conditions</a></p>
-<p>+&nbsp <a href="http://www.peanutfreezone.com/privacy/">Privacy Policy</a></p>
+				<div class="four columns footer right-border"><h4><span style="text-decoration: underline;"><span style="text-align: center;">Our Company</span></span></h4>
+				<ul>
+<li><a href="http://www.alertsforallergies.com/about/">About</a></li>
+<li><a href="http://www.alertsforallergies.com/contact/">Contact</a></li>
+<li><a href="http://www.peanutfreezone.com/terms/">Terms &amp; Conditions</a></li>
+<li><a href="http://www.peanutfreezone.com/privacy/">Privacy Policy</a></li>
+				</ul>
 				</div>
 				
 				<div class="four columns footer"><img src="http://www.peanutfreezone.com/wp-content/uploads/2012/06/Medical-Disclaimer-Title.png" alt="Medical Disclaimer" title="Medical-Disclaimer-Title" width="220" height="35" class="disclaimer" /></br><p>Please note: Any information posted on this site is not intended and should not replace professional medical advice. Discuss all questions of a medical nature with your doctor or allergist.</p>
@@ -38,9 +41,10 @@
 				</div>
 			</div>
 			
-		</footer>
+		
 			
 	</div><!-- Container End -->
+	</footer>
 	
 	<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6.
 	     chromium.org/developers/how-tos/chrome-frame-getting-started -->
