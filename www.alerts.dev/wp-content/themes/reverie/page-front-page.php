@@ -8,7 +8,9 @@ get_header(); ?>
 		<div class="slider-container" role="main">
 	
 			<div class="slider eleven columns"><img src="http://images.alertsforallergies.com/slider-hands-in-air.png" alt="Alerts for Allergies Signs"></div>
-			<div class="placeholder five columns right"><script type="text/javascript" src="http://forms.aweber.com/form/74/1233760974.js" height="400"></script></div>
+			<div class="opt-in five columns right"><!-- [GWA] AutoResponder Begin -->
+<form name="ARGWA" action="http://www.eighthloop.com" method="post"><strong>Name:</strong>&nbsp;<input id="argwa_name" name="gwaname" size="16" type="text"><br><strong>Email:</strong>&nbsp;<input id="argwa_email" name="gwaemail" size="16" type="text"><br><input class="button text-center" onclick="return gwaCheckForm1(this.form)" name="Add" type="submit" value="SUBSCRIBE"><input name="act" type="hidden" value="s_add"><input name="listid" type="hidden" value="1"></form>
+<!-- [GWA] AutoResponder End -->  </div>
 		</div><!-- End slider row -->
 		
 <!--!Products Banner-->
@@ -20,11 +22,11 @@ get_header(); ?>
 
 <div class="row">
 
-<section class="product panel three columns text-center">
+<section class="product panel three columns text-center fancy-font">
 	<div class="cat-block">
-          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/stickers.png" alt="Stickers">
-          <div class="entry-content4">
-            <div class="cat-title">
+          <img class="entry-thumb inner-panel fancy-font" src="http://images.alertsforallergies.com/stickers.png" alt="Stickers">
+          <div class="entry-content4 fancy-font">
+            <div class="cat-title fancy-font">
             </div>
           </div>
           </div>
@@ -36,26 +38,26 @@ get_header(); ?>
     </section>
 
 
-<section class="product panel three columns text-center">
+<section class="product panel three columns text-center fancy-font">
 	<div class="cat-block">
-          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/bags.png" alt="Lunch Bags">
-          <div class="entry-content1">
-            <div class="cat-title">
+          <img class="entry-thumb inner-panel fancy-font" src="http://images.alertsforallergies.com/bags.png" alt="Lunch Bags">
+          <div class="entry-content1 fancy-font">
+            <div class="cat-title fancy-font">
             </div>
           </div>
           </div>
       <h4><a href="/products/lunch-bags">Lunch Bags</h4>
-      <p>9″ wide x 10″ high x 4″ deep </br>
+      <p>9″w x 10″h x 4″d </br>
               Price: $15
             </p></a>
 
     </section>
    
-<section class="product panel three columns text-center">
+<section class="product panel three columns text-center fancy-font">
 	<div class="cat-block">
-          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/cards.png" alt="Chef Cards">
-          <div class="entry-content3">
-            <div class="cat-title">
+          <img class="entry-thumb inner-panel fancy-font" src="http://images.alertsforallergies.com/cards.png" alt="Chef Cards">
+          <div class="entry-content3 fancy-font">
+            <div class="cat-title fancy-font">
             </div>
           </div>
           </div>
@@ -65,11 +67,11 @@ get_header(); ?>
             </p></a>
     </section>
     
-<section class="product panel three columns text-center">
+<section class="product panel three columns text-center fancy-font">
 	<div class="cat-block">
-          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/tattoos.png" alt="Tattoos">
-          <div class="entry-content2">
-            <div class="cat-title">
+          <img class="entry-thumb inner-panel fancy-font" src="http://images.alertsforallergies.com/tattoos.png" alt="Tattoos">
+          <div class="entry-content2 fancy-font">
+            <div class="cat-title fancy-font">
             </div>
           </div>
           </div>
@@ -79,11 +81,11 @@ get_header(); ?>
             </p></a>
     </section>
     
-<section class="product panel three columns text-center">
+<section class="product panel three columns text-center fancy-font">
 	<div class="cat-block">
-          <img class="entry-thumb inner-panel" src="http://images.alertsforallergies.com/signs.png" alt="Signs">
-          <div class="entry-content5">
-            <div class="cat-title">
+          <img class="entry-thumb inner-panel fancy-font" src="http://images.alertsforallergies.com/signs.png" alt="Signs">
+          <div class="entry-content5 fancy-font">
+            <div class="cat-title fancy-font">
             </div>
           </div>
           </div>
@@ -97,22 +99,21 @@ get_header(); ?>
  <div class="row">
   <div class="four columns panel testimonials">
   	<h2 class="text-center">Testimonials</h2>
-  	<p>I’m looking forward to using the chef cards when we eat out. We always tell our server about my daughter’s peanut allergy, but realize instructions sometimes are forgotten or “lost in translation” from the table to the kitchen. The cards will help ensure the message is delivered directly to the kitchen staff and give reminders on how to prepare her food. &nbsp &nbsp &nbsp<strong>- Heather</strong></br>
-  	<p>We loved the tattoo's- thank you they were perfect and we gave them to a few friends of ours! I'm a nervous mommy- sent my son to camp for the first time and although he's getting better about watching out for peanuts he's not perfect- so was very nervous to have him out of my sight. So put them on his right forearm as a reminder to all his counselors- the kids thought they were cool too! Gave me a little peace of mind. Thank you!
+  	<p class="fancy-font">I’m looking forward to using the chef cards when we eat out. We always tell our server about my daughter’s peanut allergy, but realize instructions sometimes are forgotten or “lost in translation” from the table to the kitchen. The cards will help ensure the message is delivered directly to the kitchen staff and give reminders on how to prepare her food. &nbsp &nbsp &nbsp<strong>- Heather</strong></br>
+  	<p class="fancy-font">We loved the tattoo's- thank you they were perfect and we gave them to a few friends of ours! I'm a nervous mommy- sent my son to camp for the first time and although he's getting better about watching out for peanuts he's not perfect- so was very nervous to have him out of my sight. So put them on his right forearm as a reminder to all his counselors- the kids thought they were cool too! Gave me a little peace of mind. Thank you!
 &nbsp &nbsp &nbsp <strong>- Kelly</strong></p> 
   </div>
   <div class="eleven columns push-one panel feature">
   <h2 class="text-center">Check out my book!</h2>
   <div class="row">
-  <div class="seven columns inner-text"><p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
- 
-  <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-  <a href="http://www.amazon.com/gp/reader/B008VKCNY2/ref=sib_dp_kd#reader-link" target="_blank"><h5>Take a peek inside...</h5></a>
+  <div class="seven columns inner-text"><p class="fancy-font">Allergies at School is a valuable resource that will give insight into the important questions to ask. It’s a simple and straightforward guide to help increase your child’s safety at school. It also has several checklists of key points to easily reference, helpful resources to share, and relevant stories to discuss with the team members.</p>
+
+<p class="fancy-font">Whether your child is starting kindergarten or entering a new school, Allergies at School is an easy way to help you prepare for a safe transition. This is also an excellent resource for teachers, nurses, principals and other school staff.</p>
+  <a href="http://www.amazon.com/gp/reader/B008VKCNY2/ref=sib_dp_kd#reader-link" target="_blank"><h5 class="fancy-font">Take a peek inside...</h5></a>
   </div>
+  <div class="nine columns kindle">
   
-  <div class="nine columns">
-  
-  <a href="http://www.amazon.com/Allergies-School-awareness-life-threatening-ebook/dp/B008VKCNY2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1344951624&sr=1-1&keywords=stacey+stratton+allergies" target="_blank"><img class="right" src="http://images.alertsforallergies.com/kindle.png" alt="Alerts at School: By Stacey Stratton"></a>
+  <a href="http://www.amazon.com/Allergies-School-awareness-life-threatening-ebook/dp/B008VKCNY2/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1344951624&sr=1-1&keywords=stacey+stratton+allergies" target="_blank"><img src="http://images.alertsforallergies.com/kindle.png" alt="Alerts at School: By Stacey Stratton"></a>
   </div>
   </div>
   </div>

@@ -69,10 +69,10 @@
     		<li><a href="/products">Products</a>
     			<div class="dropdown">
     				<ul>
-    					<li><a href="/products/lunch-bags">Lunch Bags</a></li>
-    					<li><a href="/products/tattoos">Tattoos</a></li>
-    					<li><a href="/products/chef-cards">Chef Cards</a></li>
     					<li><a href="/products/stickers">Stickers</a></li>
+    					<li><a href="/products/lunch-bags">Lunch Bags</a></li>
+    					<li><a href="/products/chef-cards">Chef Cards</a></li>
+    					<li><a href="/products/tattoos">Tattoos</a></li>
     					<li><a href="/products/signs">Signs</a></li>
     				</ul>
     			</div>
@@ -80,7 +80,7 @@
     		<li><a href="/blog">Blog</a></li>
     		<li><a href="/contact">Contact</a></li>
     		<li><a href="/about">About</a></li>
-    		<li><a href="resources">Resources</a></li>
+    		<li><a href="/faqs">FAQ's</a></li>
     	<!--<li>
       		<div class="social-icons"><a href="http://www.facebook.com/alertsforallergies/"><img title="Facebook social icon" src="http://www.peanutfreezone.com/wp-content/uploads/facebook-logo-webtreatsetc-150x150.png" alt="Facebook social icon" width="40" height="40" /></a>
 
