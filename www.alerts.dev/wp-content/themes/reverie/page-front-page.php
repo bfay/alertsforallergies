@@ -8,9 +8,27 @@ get_header(); ?>
 		<div class="slider-container" role="main">
 	
 			<div class="slider eleven columns"><img src="http://images.alertsforallergies.com/slider-hands-in-air.png" alt="Alerts for Allergies Signs"></div>
-			<div class="opt-in five columns right"><!-- [GWA] AutoResponder Begin -->
-<form name="ARGWA" action="http://www.eighthloop.com" method="post"><strong>Name:</strong>&nbsp;<input id="argwa_name" name="gwaname" size="16" type="text"><br><strong>Email:</strong>&nbsp;<input id="argwa_email" name="gwaemail" size="16" type="text"><br><input class="button text-center" onclick="return gwaCheckForm1(this.form)" name="Add" type="submit" value="SUBSCRIBE"><input name="act" type="hidden" value="s_add"><input name="listid" type="hidden" value="1"></form>
-<!-- [GWA] AutoResponder End -->  </div>
+			
+			
+			<div class="opt-in five columns right"><?php $widgetdata=array (
+   'widget_id' => 'wysija-nl-php-1',//form identifier important when many subscription forms on the same page
+   'title' => '',//title of widget
+   'instruction' => '', // instruction to be displayed on top of the widget
+   'lists' =>  array (0 => '1'), //array of list_id to which you want to subscribe your users
+   'submit' => 'Subscribe!',//name of the subscribe button
+   'success' => 'You’ve successfully subscribed. Check your inbox now to confirm your subscription.',//success message returned when registered
+   'customfields' =>array ( //optional array of custom fields to be displayed lastname, firstname, email
+        'email' => array ('label' => 'Email')
+   ),
+   'labelswithin' => 'labels_within' //parameter to put the label of the custom field as a default value of the field
+);
+ 
+$widgetNL=new WYSIJA_NL_Widget(1);
+$subscriptionForm= $widgetNL->widget($widgetdata,$widgetdata);
+ 
+echo $subscriptionForm; ?></div>
+
+
 		</div><!-- End slider row -->
 		
 <!--!Products Banner-->
