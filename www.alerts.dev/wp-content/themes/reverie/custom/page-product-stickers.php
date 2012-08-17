@@ -1,6 +1,6 @@
 <?php
 /*
-Template Name: Product Page
+Template Name: Product Stickers
 */
 get_header(); ?>
 
